@@ -1,2 +1,2 @@
 # Perfect-Start
-Get the perfect start! I.e you choose Charmander, you get Bulbasaur and Squirtle automatically
+Get the perfect start! Choose any starter Pokémon, and the other two will automatically be added to your party.
